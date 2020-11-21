@@ -1,0 +1,54 @@
+.navbar {
+  background-color: #ff6b66;
+}
+.dashbar {
+  background-color: white;
+}
+.a1 {
+  color: #FFFFFF;
+}
+
+.a2 {
+  margin-top: 100px;
+  border-style: outset;
+}
+.a3 {
+  color: white;
+  font-weight: bold;
+  text-size-adjust: 20px;
+}
+.a4 {
+color: white;
+}
+.a5 {
+  color: white;
+}
+.a7{
+  margin-top: 100px;
+  background-color: white;
+}
+.a8{
+  margin-top:40px;
+}
+.c1{
+  font-size: 20vw;
+}
+.btn-primary {
+  margin-bottom:20px;
+}
+.b1:hover{
+     background: rgba(255, 0, 0, 0.3);
+}
+a:hover {
+  color: #2c2d2d;
+}
+.footer{
+  background-color: #ff6b66;
+}
+@media (max-width: 979px) {
+  body {
+  }
+}
+ul {
+   list-style: none;
+}

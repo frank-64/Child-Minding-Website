@@ -1,0 +1,1 @@
+<? $conn = new PDO("mysql:host=10.169.0.158;dbname=rscomput_fcli","rscomput_fcli","compfclipsham");
